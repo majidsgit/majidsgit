@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ccu1392@gmail.com**
 
-- 📄 Know about my experiences on linked In [https://www.linkedin.com/in/majid-jamali-b64686232/](https://www.linkedin.com/in/majid-jamali-b64686232/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/majid-jamali-b64686232/](https://www.linkedin.com/in/majid-jamali-b64686232/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
