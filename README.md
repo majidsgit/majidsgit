@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Awesome Projects** to learn more.
 
-- 🌱 I’m currently learning **Objective-C, UIKit, SwiftUI, Combine and many more!**
-
 - 👨‍💻 All of my projects are available at [https://github.com/majidsgit](https://github.com/majidsgit)
 
 - 💬 Ask me about **iOS, Swift, SwiftUI**
