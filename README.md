@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Majid Jamali</h1>
 <h3 align="left">A passionate iOS Developer From Iran</h3>
 
-- 🔭 I’m currently working on **Co-Design** as a volunteer iOS Developer
+- 🔭 I’m currently working on **Awesome Projects** to learn more.
 
 - 🌱 I’m currently learning **Objective-C, UIKit, SwiftUI, Combine and many more!**
 
